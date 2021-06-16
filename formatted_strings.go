@@ -9,7 +9,7 @@ func main() {
 	fmt.Printf("my age is %d and my name is %s \n", age, name)
 	fmt.Printf("my age is %v and my name is %q \n", age, name)
 	fmt.Printf("age is of type %T \n", age)
-	fmt.Printf("you scored %.2f points \n", 225.55)
+	fmt.Printf("you scored %.2f points \n", 225.55867)
 
 	// Sprintf - save formatted strings
 	var str = fmt.Sprintf("my age is %v and my name is %v \n", age, name)
